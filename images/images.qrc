@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QQ.png</file>
+        <file>icos/aio_arrow_down.png</file>
+        <file>icos/aio_arrow_right.png</file>
+        <file>icos/ic_arrow_down.png</file>
+        <file>icos/ic_calendar.png</file>
+        <file>icos/ic_close.png</file>
+        <file>icos/ic_close_white.png</file>
+        <file>icos/ic_color.png</file>
+        <file>icos/ic_cut.png</file>
+        <file>icos/ic_file.png</file>
+        <file>icos/ic_font.png</file>
+        <file>icos/ic_lock.png</file>
+        <file>icos/ic_login_cfg.png</file>
+        <file>icos/ic_menu_down.png</file>
+        <file>icos/ic_min.png</file>
+        <file>icos/ic_min_white.png</file>
+        <file>icos/ic_notes.png</file>
+        <file>icos/ic_picture.png</file>
+        <file>icos/ic_record.png</file>
+        <file>icos/ic_setting.png</file>
+        <file>icos/ic_smile.png</file>
+        <file>icos/ic_sysmen.png</file>
+        <file>icos/ic_user.png</file>
+        <file>icos/ic_user_add.png</file>
+        <file>icos/ic_weather.png</file>
+        <file>bottom.png</file>
+        <file>top.png</file>
+        <file>user.jpg</file>
+        <file>icos/qr_code.ico</file>
+    </qresource>
+</RCC>
